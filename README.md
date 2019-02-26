@@ -92,8 +92,21 @@ let b
 ## object 
 - 객체를 만들 때에 key에 대입되는 value의 이름이 같을때 생략이 가능해졌습니다.
 
-![default](https://media.oss.navercorp.com/user/12640/files/a050d7de-2ec1-11e9-85a3-2cc266bdca8d)
-
+```js
+const name = "naver"
+const age = 3
+const ob = {
+  name : name,
+  age : age
+```
+이처럼 중복적으로 같은 문자를 적어줬지만, key value이름이 같으면 다음과 같이 편리하게 
+```js
+const name = "naver"
+const age = 3
+const ob = {
+  name,
+  age
+```
 ## 함수
 -  함수를 표현하는 방법이 추가되었습니다.
 
