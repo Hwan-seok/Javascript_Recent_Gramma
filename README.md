@@ -4,7 +4,6 @@
 # ECMAScript?
 - ECMAScript란 javascript 사용이 많아지면서 생긴 ECMA 기구에서 만든 코어 스크립트 언어 (표준)
 
-![javascript](https://media.oss.navercorp.com/user/12640/files/d2b8124e-2bd0-11e9-91e3-6cee957cd578)
 
 - 자바스크립트 자체를 개선하기 위하여 ECMA에서 2015년부터(ES6) 1년에 한번씩 변경되거나 추가된 기능들을 발표하기로 약속했습니다.
 - 따라서 계속 ES6 7 8 9 를 붙히다가는 언제까지 갈지 모르므로 정식 명칭을 ES2015와 같이 년도를 붙히기로 했습니다 (현재까지 ES 2015 2016 2017 2018 까지 발표됨)
