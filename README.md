@@ -76,10 +76,9 @@ for(let i = 0 ; i<5 ; i++){
   * 초기화 -> 이 변수는 메모리 이부분부터 쓸꺼야
   * 할당 -> 이 메모리에 이 값을 저장할꺼야
 - var 로 선언한 변수는 선언과 초기화가 함께 이루어짐
-![image](https://media.oss.navercorp.com/user/12640/files/9f9d70d2-2ec0-11e9-9959-e0b1d145bf9f)
-
+![9f9d70d2-2ec0-11e9-9959-e0b1d145bf9f](https://user-images.githubusercontent.com/38072762/53386300-fea35100-39c4-11e9-8035-4993f3ee3bdf.png)
 - let, const로 선언한 변수는 선언만하고 초기화와 할당은 나중에 이루어짐
-![image](https://media.oss.navercorp.com/user/12640/files/949fae52-2ec0-11e9-979a-a47fb5b2aac5)
+![949fae52-2ec0-11e9-979a-a47fb5b2aac5](https://user-images.githubusercontent.com/38072762/53386306-006d1480-39c5-11e9-8428-7366e656010a.png)
 -> 호이스팅의 변화가 생김
 ```js
 console.log(a) // undefined
@@ -242,7 +241,7 @@ let {i,k,j,m}=ob
 
 - ES6 문법에서 let, const와 함께 가장 중요하다고 생각되는 문법
 - 자바스크립트에서 흔히 볼 수 있는 콜백 헬을 조금이나마 완화할 수 있습니다.
-
+![1_co0gr64uo5ksg89ukfd2dw](https://user-images.githubusercontent.com/38072762/53386297-fd722400-39c4-11e9-8f0c-2e4d0a2ac7c2.jpeg)
 
 
 ### promise를 작성하는 방법
