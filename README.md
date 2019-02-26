@@ -232,7 +232,6 @@ let {i,k,j,m}=ob
 - 자바스크립트에서 흔히 볼 수 있는 콜백 헬을 조금이나마 완화할 수 있습니다.
 
 
-![callback_hell](https://media.oss.navercorp.com/user/12640/files/bd325488-2ed8-11e9-977e-506b26bb4a1c)
 
 ### promise를 작성하는 방법
 - 함수 시작부에 바로  `return new Promise((resolve,reject)=>`로 프로미스를 반환한다는 표시를 해줍니다.
